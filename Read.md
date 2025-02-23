@@ -226,12 +226,12 @@ public class Main {
 :int denote datatype of field.
 
 ```java
--------------------        public class Shape {
+|-----------------|        public class Shape {
 |      Shape      |     
 |-----------------|               private int positionX;
 | - positionX:int |            
 | + render()      |               public void render(){}
--------------------        }
+|-----------------|        }
 
 ```
 
