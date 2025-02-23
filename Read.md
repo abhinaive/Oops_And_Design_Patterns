@@ -1,7 +1,7 @@
 # Design Patterns
 
-Design Patterns are elegant solution to repeating problems. e.x. UNDO(){}
-it helps to build reusable, extensible & maintainable. 
+Design Patterns are elegant solution to repeating problems. e.x. UNDO(){} 
+it helps to build reusable, extensible & maintainable software. 
 
 - 23 Design Patterns divided into 3 catogries.
 
