@@ -1,7 +1,7 @@
 # Design Patterns
 
-Design Patterns are elegant solution to repeating problems. e.x. UNDO(){} 
-it helps to build reusable, extensible & maintainable software. 
+Design Patterns are elegant solution to repeating problems. e.x. UNDO(){}
+it helps to build reusable, extensible & maintainable. 
 
 - 23 Design Patterns divided into 3 catogries.
 
@@ -225,15 +225,15 @@ public class Main {
 +ve sign denote : public
 :int denote datatype of field.
 
-
-                           public class Shape {
+```java
+-------------------        public class Shape {
 |      Shape      |     
 |-----------------|               private int positionX;
 | - positionX:int |            
 | + render()      |               public void render(){}
-|                 |        }
+-------------------        }
 
-
+```
 
 ```java
 -------------------        
