@@ -225,15 +225,15 @@ public class Main {
 +ve sign denote : public
 :int denote datatype of field.
 
-```java
-|-----------------|        public class Shape {
+
+                           public class Shape {
 |      Shape      |     
 |-----------------|               private int positionX;
 | - positionX:int |            
 | + render()      |               public void render(){}
-|-----------------|        }
+|                 |        }
 
-```
+
 
 ```java
 -------------------        
